@@ -86,7 +86,7 @@
 					sourceType="HTTP:SERVICE_UNAVAILABLE"
 					targetType="LIVENESS-CHECK:SERVICE_UNAVAILABLE" />
 				<mule:error-mapping
-					sourceType="HTTP:RETRY EXHAUSTED"
+					sourceType="HTTP:RETRY_EXHAUSTED"
 					targetType="LIVENESS-CHECK:RETRY_EXHAUSTED" />
 			</http:request>
 		</body>

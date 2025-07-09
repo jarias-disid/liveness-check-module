@@ -392,7 +392,7 @@
   "artifactCoordinates": {
     "artifact id": "liveness-check",
     "group id": "83441d7f-69e7-4e66-9db9-a46dd7a28990",
-    "version": "1.0.0"
+    "version": "1.0.2"
   },
   "notifications": [],
   "errors": [
